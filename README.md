@@ -8,4 +8,9 @@ remove(x) : x가 배열 내의 원소이면 삭제하고 빈칸을 다음 원소
 print() : 배열의 원소를 프린트한다.
 
 ## 02 AbstractDataType
-ADT -> 인터페이스 -> 클래스 -> 객체
+ADT -> 인터페이스 -> 클래스 -> 객체  
+## 03 LinkedList
+insertLast(x) : x를 리스트의 맨 마지막 원소로 삽입한다.
+insertFirst(x) : x를 리스트의 맨 앞의 원소로 삽입한다.
+contain(x) : 리스트에 값이 x인 노드 존재 여부를 반환한다.
+print() : 순서대로 리스트의 원소를 출력한다.  
