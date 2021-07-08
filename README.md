@@ -14,3 +14,6 @@ insertLast(x) : x를 리스트의 맨 마지막 원소로 삽입한다.
 insertFirst(x) : x를 리스트의 맨 앞의 원소로 삽입한다.
 contain(x) : 리스트에 값이 x인 노드 존재 여부를 반환한다.
 print() : 순서대로 리스트의 원소를 출력한다.  
+## 04 BigInt
+multiplyOne(x) : x가 한자리 양의 정수일 때. 곱하기를 수행하여 그 결과를 저장한 BigInt 객체를 리턴.  
+multply(x) : x가 임의의 자리수의 양의 정수일 때, 곱하기를 수행하여 그 결과를 저장한 BigInt 객체를 리턴.
